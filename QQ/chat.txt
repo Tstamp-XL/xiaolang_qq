@@ -1,0 +1,48 @@
+create database chat;
+
+create table messages(
+	id int unsigned primary key auto_increment,
+	sender varchar(64) not null,
+	getter varchar(64) not null,
+	content varchar(3600) not null,
+	sendTime datetime not null,
+	isGet tinyint default 0
+)
+
+create table user(
+	id int unsigned primary key auto_increment,
+	username varchar(64) not null,
+	password varchar(64) not null,
+	buildTime datetime not null
+)
+
+insert into user(username, password, bulidTime) values("小红", md5("123456"))
+
+
+$sql = "insert into messages(sender, getter, content, sendTime) values('$sender', '$getter', '$con', now());";
+
+<messes>
+	<mesid>9</mesid>
+	<sender>小豪</sender>
+	<getter>小朗</getter>
+	<con>我</con>
+	<sendTime>2017-06-23 00:45:25</sendTime>
+	<mesid>20</mesid>
+	<sender>小豪</sender>
+	<getter>小朗</getter>
+	<con>你傻啊</con>
+	<sendTime>2017-06-23 03:44:40</sendTime>
+</messes>
+
+<messes>
+	<mesid>2</mesid>
+	<sender>小鸣</sender>
+	<mesid>3</mesid>
+	<sender>小朗</sender>
+	<mesid>4</mesid>
+	<sender>小欣</sender>
+	<mesid>5</mesid>
+	<sender>小张</sender>
+	<mesid>6</mesid>
+	<sender>小毛</sender>
+</messes>

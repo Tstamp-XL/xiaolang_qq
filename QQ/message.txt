@@ -1,0 +1,392 @@
+select * from user where username = '小红' and password = md5('123456')---------------------------
+1
+小红
+select * from user where username != '小红'
+小鸣
+小朗
+小欣
+小张
+小毛
+select * from user where username = '小红' and password = md5('123456')---------------------------
+1
+select * from user where username = '小红' and password = md5('123465')---------------------------
+0
+select * from user where username = '小朗' and password = md5('123456')---------------------------
+1
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+select * from user where username = '小红' and password = md5('123456')---------------------------
+1
+小红
+select * from user where username != '小红'
+小鸣
+小朗
+小欣
+小张
+小毛
+小鸣
+小朗
+小欣
+小张
+小毛
+小红-小朗-小朗 你是傻逼吗
+小朗-小红-小红 你智障吗
+小朗-小红-你奶奶个熊
+小红-小朗-你爷爷的
+select * from user where username = 'xiaolang' and password = md5('123456')---------------------------
+0
+select * from user where username = '小朗' and password = md5('123456')---------------------------
+1
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+select * from user where username = '小朗' and password = md5('123456')---------------------------
+1
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+select * from user where username = '小朗' and password = md5('123456')---------------------------
+1
+小朗
+select * from user where username != '小朗'
+小红
+小鸣
+小欣
+小张
+小毛
+小红
+小鸣
+小欣
+小张
+小毛
+select * from user where username = '小毛' and password = md5('123456')---------------------------
+1
+小毛
+select * from user where username != '小毛'
+小红
+小鸣
+小朗
+小欣
+小张
+小红
+小鸣
+小朗
+小欣
+小张
+小朗-小毛-你好啊 我是小朗啊
+小毛-小朗-你好啊 我是小毛啊
+小朗-小毛-你好 你好 

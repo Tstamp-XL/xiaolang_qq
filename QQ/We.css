@@ -1,0 +1,50 @@
+body {
+	border: 1px solid red;
+	width: 300px;
+	margin: 0 auto;
+	height: 550px;
+}
+
+#sum {
+	float: left;
+	height: 550px;
+}
+
+.setting {
+	width: 50px;
+	background-color: #3E3E40;
+	text-align: center;
+}
+
+.setting img {
+	margin-left: 12px;
+	display: block;
+	margin-top: 15px;
+	margin-bottom: 5px;
+	display: inline-block;
+	vertical-align: middle;
+	display: block;
+}
+
+#img_setting {
+	position: absolute;
+	margin-top: 345px; // 550-((25+15+5)*4-5)-25-5
+	margin-left: 12px;
+}
+
+.listing {
+	width: 250px;
+	background-color: #EAEAEA;
+}
+
+.textadd {
+	float: left;
+	margin-left: 10px;
+	margin-top: 10px;
+	height: 22px;
+}
+
+#input_textadd{
+	background-color: #EFEFEF;
+	border: 1px solid #DDDDDD;
+}
